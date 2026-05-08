@@ -1,0 +1,21 @@
+# Java build output
+target/
+out/
+build/
+bin/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
