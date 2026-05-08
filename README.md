@@ -86,8 +86,3 @@ java -cp out com.mateus.javaexercises.exercises.fundamentals.SimpleCalculatorExe
 - `BankAccountDemo`: demonstra operações simples de conta bancária.
 - `VehicleHierarchyExercise`: demonstra especializações de veículos por herança.
 - `CompanyBonusDemo`: calcula bônus com sobrescrita de método.
-
-## Observações Técnicas
-
-As classes foram reorganizadas estruturalmente sem reescrever os algoritmos originais. Algumas classes auxiliares permanecem package-private porque pertencem ao exercício principal do mesmo arquivo. Exercícios interativos podem ficar em loop conforme a implementação original.
-
